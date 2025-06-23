@@ -1,6 +1,6 @@
 # JAVA-PROGRAM-HUB
 
-This is the public repository for numerous programs in Java language.
+This is a public repository for numerous programs in Java language.
 This is the repository for numerous programs in Java language.
 <br>
 This repository contains various concepts of Object-Oriented Programing implemented using Java language.
